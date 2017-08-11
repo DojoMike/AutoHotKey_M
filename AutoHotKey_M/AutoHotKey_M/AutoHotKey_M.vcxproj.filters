@@ -35,7 +35,7 @@
     <ClCompile Include="dllmain.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Screen.cpp">
+    <ClCompile Include="BuiltIn.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
